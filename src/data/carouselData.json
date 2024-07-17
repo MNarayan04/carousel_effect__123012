@@ -1,0 +1,24 @@
+{
+  "slides": [
+    {
+      "src": "https://cdn.pixabay.com/photo/2015/11/16/16/28/bird-1045954_960_720.jpg",
+      "alt": "Image 1"
+    },
+    {
+      "src": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
+      "alt": "Image 2 "
+    },
+    {
+      "src": "https://cdn.pixabay.com/photo/2023/02/01/10/37/sunset-7760143_960_720.jpg",
+      "alt": "Image 3 "
+    },
+    {
+      "src":"https://cdn.pixabay.com/photo/2023/12/10/23/26/bird-8442508_1280.jpg",
+      "alt":"Image 4"
+    },
+    {
+      "src":"https://cdn.pixabay.com/photo/2023/09/10/00/49/lovebird-8244066_960_720.jpg",
+      "alt":"Image 5"
+    }
+  ]
+}
